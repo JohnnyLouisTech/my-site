@@ -1,0 +1,28 @@
+{
+ margin: 0;
+ padding: 0;
+}
+
+h3, h1{
+   color: #66BFBF;
+   text-transform: uppercase;
+}
+
+body{
+    background-color: #EAF6F6;
+    font-family: poppins;
+}
+
+img{
+    border-radius: 50%;
+}
+
+
+hr{
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+}
